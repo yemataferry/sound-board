@@ -17,7 +17,7 @@ body {
 
 .btn {
   background-color: purple;
-  border-radius: 5px;
+  border-radius: 15px;
   border: none;
   color: #fff;
   margin: 1rem;
@@ -28,7 +28,7 @@ body {
 }
 
 .btn:hover {
-  opacity: 0.7;
+  background-color: #28ca28;
 }
 
 .btn:focus {
